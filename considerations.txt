@@ -1,0 +1,5 @@
+userid.txt holds the userid of every speaker and their gender
+
+script bringaudio.sh brings the whole recorded audio tracks from the dropbox folder, and distributes them in utterances_audio/train and utterances_audio/test
+
+
